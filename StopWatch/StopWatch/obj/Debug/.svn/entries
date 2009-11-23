@@ -1,0 +1,99 @@
+9
+
+dir
+670
+http://ianjb.unfuddle.com/svn/ianjb_ibtwsats/trunk/StopWatch/StopWatch/obj/Debug
+http://ianjb.unfuddle.com/svn/ianjb_ibtwsats
+
+
+
+2008-07-18T01:52:39.970020Z
+212
+ianjb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f9f28790-8b3b-43ee-919b-4077685b1b0b
+
+StopWatch.pdb
+file
+
+
+
+
+2008-07-18T13:11:59.369500Z
+5fd141604131facb92ba7e73c53b3d7e
+2008-07-18T01:52:39.970020Z
+212
+ianjb
+has-props
+
+Refactor
+dir
+
+StopWatch.Form1.resources
+file
+
+
+
+
+2008-07-17T14:04:11.825625Z
+d85fe5b9a2e22066b1d7dc89c16ee527
+2008-07-17T03:20:03.252172Z
+206
+ianjb
+has-props
+
+StopWatch.Properties.Resources.resources
+file
+
+
+
+
+2008-07-17T14:04:11.825625Z
+d85fe5b9a2e22066b1d7dc89c16ee527
+2008-07-17T03:20:03.252172Z
+206
+ianjb
+has-props
+
+TempPE
+dir
+
+StopWatch.exe
+file
+
+
+
+
+2008-07-18T13:11:59.369500Z
+4a8bd6b9a2ac87d9ebc9f7efcc587ea6
+2008-07-18T01:52:39.970020Z
+212
+ianjb
+has-props
+
+StopWatch.csproj.GenerateResource.Cache
+file
+
+
+
+
+2008-07-18T13:11:59.400750Z
+8b915f3e4747ea112336a8a1b3ac8fef
+2008-07-18T01:33:57.070120Z
+211
+ianjb
+has-props
+
